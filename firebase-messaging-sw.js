@@ -1,5 +1,5 @@
 importScripts('https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js');  // version must be same with package.json
-importScripts('https://www.gstatic.com/firebasejs/8.7.1/firebase-messaging.js');
+importScripts('https://www.gstatic.com/firebasejs/8.7.1/firebase-messaging.js');  // version must be same with above
 
 
 
